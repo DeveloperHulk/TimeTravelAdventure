@@ -75,6 +75,6 @@ Try to earn the highest score possible and save the future!
 
 Contributions are welcome! If you'd like to improve the game or add new features, please fork the repository and create a pull request. Feel free to open issues for any bug reports or feature requests.
 
-## This game was created as a fun project by [Your Name] in celebration of World Programmers Day
+## This game was created as a fun project in celebration of World Programmers Day.
 
 ## Enjoy your Time Travel Adventure!
