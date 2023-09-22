@@ -1,6 +1,6 @@
 ╔══════════════════════════════════╗
-║   Welcome to Time Travel Game!   				║
-║    Explore, Collect, and Win!    				║
+║   Welcome to Time Travel Game!   ║
+║    Explore, Collect, and Win!    ║
 ╚══════════════════════════════════╝
 
 Options:
