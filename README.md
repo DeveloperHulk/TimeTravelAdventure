@@ -1,7 +1,5 @@
 Time Travel Adventure Game
 
-![Time Machine](time_machine.jpg)
-
 Welcome to the Time Travel Adventure Game! In this text-based adventure, you'll explore different time periods, collect treasures, and make crucial decisions to save the future.
 
 ## Table of Contents
@@ -53,22 +51,16 @@ Try to earn the highest score possible and save the future!
 ## Installation
 
 1. Clone the repository to your local machine:
-
-   ```bash
    git clone https://github.com/your-username/time-travel-adventure.git
-   ```
+
 
 2. Navigate to the project directory:
-
-   ```bash
    cd time-travel-adventure
-   ```
+  
 
 3. Compile the Java program:
-
-   ```bash
    javac TimeTravelAdventure.java
-   ```
+
 
 ## Usage
 
