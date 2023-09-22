@@ -11,7 +11,6 @@ Welcome to the Time Travel Adventure Game! In this text-based adventure, you'll 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## How to Play
 
@@ -78,10 +77,6 @@ Try to earn the highest score possible and save the future!
 
 Contributions are welcome! If you'd like to improve the game or add new features, please fork the repository and create a pull request. Feel free to open issues for any bug reports or feature requests.
 
-## License
+## This game was created as a fun project by [Your Name] in celebration of World Programmers Day
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
-
-You can customize this README file further by adding specific instructions or details about your project. Don't forget to include relevant images and update the URLs accordingly.
-![image](https://github.com/DeveloperHulk/TimeTravelAdventure/assets/67422972/d4617eb2-1f76-48be-ab74-eb545b68cc97)
+## Enjoy your Time Travel Adventure!
