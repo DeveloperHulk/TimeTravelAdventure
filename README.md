@@ -52,12 +52,7 @@ Try to earn the highest score possible and save the future!
 
 1. Clone the repository to your local machine:  git clone https://github.com/DeveloperHulk/TimeTravelAdventure.git
 
-
-2. Navigate to the project directory:
-   cd time-travel-adventure
-  
-
-3. Compile the Java program:
+2. Compile the Java program:
    javac TimeTravelAdventure.java
 
 
