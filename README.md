@@ -1,7 +1,4 @@
-Certainly! Here's a sample README file for your Time Travel Adventure game:
-
-```markdown
-# Time Travel Adventure Game
+Time Travel Adventure Game
 
 ![Time Machine](time_machine.jpg)
 
@@ -95,4 +92,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ```
 
 You can customize this README file further by adding specific instructions or details about your project. Don't forget to include relevant images and update the URLs accordingly.
-![Uploading image.png…]()
+![image](https://github.com/DeveloperHulk/TimeTravelAdventure/assets/67422972/d4617eb2-1f76-48be-ab74-eb545b68cc97)
