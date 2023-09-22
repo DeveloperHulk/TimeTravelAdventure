@@ -64,10 +64,8 @@ Try to earn the highest score possible and save the future!
 ## Usage
 
 1. Run the game:
-
-   ```bash
    java TimeTravelAdventure
-   ```
+
 
 2. Follow the on-screen instructions to play the game.
 
