@@ -1,4 +1,4 @@
-Time Travel Adventure Game
+## Time Travel Adventure Game
 
 Welcome to the Time Travel Adventure Game! In this text-based adventure, you'll explore different time periods, collect treasures, and make crucial decisions to save the future.
 
